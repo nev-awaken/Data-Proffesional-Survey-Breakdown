@@ -9,6 +9,8 @@ Features:
 Multiple visualizations, including bar charts, donut charts, and cards, that provide insights into the survey data
 Interactive features that allow users to filter the data and drill down into specific segments
 The ability to customize the dashboard to fit different use cases and requirements
+
+
 Data Sources:
 The data used in this project : https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx.
 
